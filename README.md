@@ -1,2 +1,2 @@
-## MyResume
+MyResume
 MyResume
